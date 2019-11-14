@@ -348,3 +348,220 @@ http://iptv.rent:80/oerpy2v2r/086730stia/16450
 http://iptv.rent:80/oerpy2v2r/086730stia/6088
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD BR" tvg-logo="" group-title="Brazil",Warner Channel HD BR
 http://iptv.rent:80/oerpy2v2r/086730stia/16449
+#EXTINF:-1 tvg-id="" tvg-name="------- UK Sports -------" tvg-logo="" group-title="United Kingdom",------- UK Sports -------
+http://iptv.rent:80/oerpy2v2r/086730stia/15576
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1 FHD UK" tvg-logo="http://pici.life/UK/sky-sports-f1.png" group-title="United Kingdom",Sky Sports F1 FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6535
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1 HD UK" tvg-logo="http://pici.life/UK/sky-sports-f1.png" group-title="United Kingdom",Sky Sports F1 HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15708
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1 UK" tvg-logo="http://pici.life/UK/sky-sports-f1.png" group-title="United Kingdom",Sky Sports F1 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6536
+#EXTINF:-1 tvg-id="Sky Sports Mix HD UK" tvg-name="Sky Sports Mix HD UK" tvg-logo="http://pici.life/uk/SkySportsMix.uk.png" group-title="United Kingdom",Sky Sports Mix HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/7925
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="Sky Sports Mix UK" tvg-logo="http://pici.life/uk/SkySportsMix.uk.png" group-title="United Kingdom",Sky Sports Mix UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6534
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News FHD UK" tvg-logo="http://pici.life/UK/sky-sports-news.png" group-title="United Kingdom",Sky Sports News FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15702
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News HD UK" tvg-logo="http://pici.life/UK/sky-sports-news.png" group-title="United Kingdom",Sky Sports News HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15701
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News UK" tvg-logo="http://pici.life/UK/sky-sports-news.png" group-title="United Kingdom",Sky Sports News UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6533
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="Sky Sports Action FHD UK" tvg-logo="http://pici.life/skysportsaction.png" group-title="United Kingdom",Sky Sports Action FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/7920
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="Sky Sports Action HD UK" tvg-logo="http://pici.life/uk/SkySportsAction.uk.png" group-title="United Kingdom",Sky Sports Action HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/7927
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Arena FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15710
+#EXTINF:-1 tvg-id="Sky Sports Arena HD UK" tvg-name="Sky Sports Arena HD UK" tvg-logo="http://pici.life/UK/sky-sports-arena.png" group-title="United Kingdom",Sky Sports Arena HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/7926
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports cricket FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports cricket FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15709
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football UK" tvg-logo="http://pici.life/UK/sky-sports-football.png" group-title="United Kingdom",Sky Sports Football UK
+http://iptv.rent:80/oerpy2v2r/086730stia/53165
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football HD UK" tvg-logo="http://pici.life/UK/sky-sports-football.png" group-title="United Kingdom",Sky Sports Football HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/625255
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Football FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/625258
+#EXTINF:-1 tvg-id="Sky Sports Golf HD UK" tvg-name="Sky Sports Golf FHD UK" tvg-logo="http://pici.life/UK/sky-sports-golf.png" group-title="United Kingdom",Sky Sports Golf FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15705
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="Sky Sports Golf UK" tvg-logo="http://pici.life/UK/sky-sports-golf.png" group-title="United Kingdom",Sky Sports Golf UK
+http://iptv.rent:80/oerpy2v2r/086730stia/9536
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf HD UK" tvg-logo="http://pici.life/UK/sky-sports-golf.png" group-title="United Kingdom",Sky Sports Golf HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15704
+#EXTINF:-1 tvg-id="Sky Sports Main Event HD UK" tvg-name="Sky Sports Main Event FHD UK" tvg-logo="http://pici.life/UK/sky-sports-main-event.png" group-title="United Kingdom",Sky Sports Main Event FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15703
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event HD UK" tvg-logo="http://pici.life/UK/sky-sports-main-event.png" group-title="United Kingdom",Sky Sports Main Event HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/7932
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event UK" tvg-logo="http://pici.life/UK/sky-sports-main-event.png" group-title="United Kingdom",Sky Sports Main Event UK
+http://iptv.rent:80/oerpy2v2r/086730stia/53277
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League FHD UK" tvg-logo="http://pici.life/uk/SkySportsPremiereLeague.uk.png" group-title="United Kingdom",Sky Sports Premier League FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/7923
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League HD UK" tvg-logo="http://pici.life/UK/sky-sports-premier-league.png" group-title="United Kingdom",Sky Sports Premier League HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/7931
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League UK" tvg-logo="http://pici.life/UK/sky-sports-premier-league.png" group-title="United Kingdom",Sky Sports Premier League UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15700
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports The Open FHD UK" tvg-logo="http://pici.life/skysportstheopen.png" group-title="United Kingdom",Sky Sports The Open FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/7928
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports The Open UK" tvg-logo="http://pici.life/uk/SkySportsTheOpen.uk.png" group-title="United Kingdom",Sky Sports The Open UK
+http://iptv.rent:80/oerpy2v2r/086730stia/625251
+#EXTINF:-1 tvg-id="skysportsboxoffice.uk" tvg-name="Sky Sports Box Office (Live During Events Only) UK" tvg-logo="" group-title="United Kingdom",Sky Sports Box Office (Live During Events Only) UK
+http://iptv.rent:80/oerpy2v2r/086730stia/625252
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Box Nation HD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Box Nation HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15828
+#EXTINF:-1 tvg-id="premiersports1.uk" tvg-name="Premier Sports HD UK" tvg-logo="http://pici.life/premiersports.png" group-title="United Kingdom",Premier Sports HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/7915
+#EXTINF:-1 tvg-id="eir Sport 1 UK" tvg-name="Eir Sport 1 UK" tvg-logo="https://pici.life/lg/UK/EIR Sport 1 UK.png" group-title="United Kingdom",Eir Sport 1 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6612
+#EXTINF:-1 tvg-id="eir Sport 2 UK" tvg-name="Eir Sport 2 UK" tvg-logo="https://pici.life/lg/UK/EIR%20Sport%202%20UK.png" group-title="United Kingdom",Eir Sport 2 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6611
+#EXTINF:-1 tvg-id="" tvg-name="ESPN UK" tvg-logo="" group-title="United Kingdom",ESPN UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6610
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="Eurosport 1 UK" tvg-logo="http://pici.life/uk/Eurosport1.uk.png" group-title="United Kingdom",Eurosport 1 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6609
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="Eurosport 2 UK" tvg-logo="http://pici.life/uk/Eurosport2.uk.png" group-title="United Kingdom",Eurosport 2 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6608
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="Premier Sports 2 UK" tvg-logo="http://pici.life/uk/PremierSports.uk.png" group-title="United Kingdom",Premier Sports 2 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6568
+#EXTINF:-1 tvg-id="motorstv.uk" tvg-name="Motors TV HD UK" tvg-logo="http://pici.life/uk/MotorsTV.uk.png" group-title="United Kingdom",Motors TV HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6580
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV FHD UK" tvg-logo="" group-title="United Kingdom",MUTV FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/12852
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV HD UK" tvg-logo="https://pici.life/lg/UK/MUTV%20HD%20UK.png" group-title="United Kingdom",MUTV HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6582
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="Liverpool FC UK" tvg-logo="http://pici.life/uk/LiverpoolFCTV.uk.png" group-title="United Kingdom",Liverpool FC UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6584
+#EXTINF:-1 tvg-id="" tvg-name="Rangers FC TV (Live for Matches) UK" tvg-logo="http://pici.life/rangerstvuk.png" group-title="United Kingdom",Rangers FC TV (Live for Matches) UK
+http://iptv.rent:80/oerpy2v2r/086730stia/7826
+#EXTINF:-1 tvg-id="" tvg-name="Celtic FC TV  FHD (Live for Matches) UK" tvg-logo="http://pici.life/celtictv.png" group-title="United Kingdom",Celtic FC TV  FHD (Live for Matches) UK
+http://iptv.rent:80/oerpy2v2r/086730stia/7825
+#EXTINF:-1 tvg-id="chelseatv.uk" tvg-name="Chelsea TV HD UK" tvg-logo="https://pici.life/lg/UK/Chelsea%20TV%20UK.png" group-title="United Kingdom",Chelsea TV HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15772
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 HD UK" tvg-logo="http://pici.life/uk/BTSport1.uk.png" group-title="United Kingdom",BT Sport 1 HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6649
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sports 1 UK" tvg-logo="http://pici.life/uk/BTSport1.uk.png" group-title="United Kingdom",BT Sports 1 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6646
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sports 2 UK" tvg-logo="http://pici.life/uk/BTSport2.uk.png" group-title="United Kingdom",BT Sports 2 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/66532
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2 FHD UK" tvg-logo="http://pici.life/uk/BTSport2.uk.png" group-title="United Kingdom",BT Sport 2 FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/66753
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sports 3 FHD UK" tvg-logo="http://pici.life/uk/BTSport3.uk.png" group-title="United Kingdom",BT Sports 3 FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6647
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sports 3 UK" tvg-logo="http://pici.life/uk/BTSport3.uk.png" group-title="United Kingdom",BT Sports 3 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6644
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="BT Sport Extra 1 UK" tvg-logo="http://pici.life/uk/BTSportX1.uk.png" group-title="United Kingdom",BT Sport Extra 1 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6641
+#EXTINF:-1 tvg-id="BT Sport Extra 1 UK" tvg-name="BT Sport Extra 2 UK" tvg-logo="http://pici.life/uk/BTSportX2.uk.png" group-title="United Kingdom",BT Sport Extra 2 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6640
+#EXTINF:-1 tvg-id="BT Sport 3 UK" tvg-name="BT Sport Extra 3 UK" tvg-logo="http://pici.life/btsport3extra.png" group-title="United Kingdom",BT Sport Extra 3 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/7918
+#EXTINF:-1 tvg-id="BT Sport Extra 4 UK" tvg-name="BT Sport Extra 4 UK" tvg-logo="http://pici.life/btsport4extra.png" group-title="United Kingdom",BT Sport Extra 4 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/7917
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 5 UK" tvg-logo="http://pici.life/btsportextra.png" group-title="United Kingdom",BT Sport Extra 5 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/7916
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Europe UK" tvg-logo="" group-title="United Kingdom",BT Sport Europe UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6642
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="BT Sport ESPN HD UK" tvg-logo="" group-title="United Kingdom",BT Sport ESPN HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15738
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="BT Sport ESPN UK" tvg-logo="http://pici.life/uk/BTSportESPN.uk.png" group-title="United Kingdom",BT Sport ESPN UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6643
+#EXTINF:-1 tvg-id="at the races UK" tvg-name="At The Races UK" tvg-logo="http://pici.life/uk/AtTheRaces.uk.png" group-title="United Kingdom",At The Races UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6661
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD UK" tvg-logo="" group-title="United Kingdom",Eurosport 1 HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15736
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 HD UK" tvg-logo="" group-title="United Kingdom",Eurosport 2 HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15735
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 FHD UK" tvg-logo="" group-title="United Kingdom",Eleven Sports 1 FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/53155
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 FHD UK" tvg-logo="" group-title="United Kingdom",Eleven Sports 2 FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/53154
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports LA LIGA FHD UK" tvg-logo="" group-title="United Kingdom",Eleven Sports LA LIGA FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/53153
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports UK" tvg-logo="" group-title="United Kingdom",Fight Sports UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15747
+#EXTINF:-1 tvg-id="" tvg-name="------- UK Movies -------" tvg-logo="" group-title="United Kingdom",------- UK Movies -------
+http://iptv.rent:80/oerpy2v2r/086730stia/15575
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Action UK" tvg-logo="http://pici.life/uk/SkyAction.uk.png" group-title="United Kingdom",Sky Movies Action UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6558
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Comedy UK" tvg-logo="http://pici.life/uk/SkyComedy.uk.png" group-title="United Kingdom",Sky Movies Comedy UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6557
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Drama UK" tvg-logo="http://pici.life/uk/SkyDrama.uk.png" group-title="United Kingdom",Sky Movies Drama UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6556
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Family UK" tvg-logo="http://pici.life/uk/SkyFamily.uk.png" group-title="United Kingdom",Sky Movies Family UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6555
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Modern Greats UK" tvg-logo="http://pici.life/uk/SkyGreats.uk.png" group-title="United Kingdom",Sky Movies Modern Greats UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6554
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Premiere UK" tvg-logo="http://pici.life/uk/SkyPremiere.uk.png" group-title="United Kingdom",Sky Movies Premiere UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6553
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Scifi Horror UK" tvg-logo="http://pici.life/uk/SkySciFiHorror.uk.png" group-title="United Kingdom",Sky Movies Scifi Horror UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6552
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Select UK" tvg-logo="http://pici.life/uk/SkySelect.uk.png" group-title="United Kingdom",Sky Movies Select UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6551
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Showcase UK" tvg-logo="http://pici.life/uk/Showcase.uk.png" group-title="United Kingdom",Sky Movies Showcase UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6550
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Thriller UK" tvg-logo="http://pici.life/uk/SkyCrimeThriller.uk.png" group-title="United Kingdom",Sky Movies Thriller UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6549
+#EXTINF:-1 tvg-id="Showcase.uk" tvg-name="Movies Showcase UK" tvg-logo="http://pici.life/lg/UK/showcase.png" group-title="United Kingdom",Movies Showcase UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15904
+#EXTINF:-1 tvg-id="" tvg-name="Sky Witness UK" tvg-logo="http://pici.life/skyliving.png" group-title="United Kingdom",Sky Witness UK
+http://iptv.rent:80/oerpy2v2r/086730stia/7912
+#EXTINF:-1 tvg-id="" tvg-name="Sky Witness +1 UK" tvg-logo="" group-title="United Kingdom",Sky Witness +1 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15692
+#EXTINF:-1 tvg-id="" tvg-name="Sky Witness HD UK" tvg-logo="http://pici.life/uk/SkyLiving.uk.png" group-title="United Kingdom",Sky Witness HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6559
+#EXTINF:-1 tvg-id="" tvg-name="Sky One UK" tvg-logo="" group-title="United Kingdom",Sky One UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6547
+#EXTINF:-1 tvg-id="True Movies 1 UK" tvg-name="True Movies UK" tvg-logo="http://pici.life/uk/TrueMovies.uk.png" group-title="United Kingdom",True Movies UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6524
+#EXTINF:-1 tvg-id="truemovies2.uk" tvg-name="True Movies 2 UK" tvg-logo="http://pici.life/uk/TrueMovies.uk.png" group-title="United Kingdom",True Movies 2 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6523
+#EXTINF:-1 tvg-id="movies4men.uk" tvg-name="Movies 4 Men UK" tvg-logo="http://pici.life/uk/Movies4Men.uk.png" group-title="United Kingdom",Movies 4 Men UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6579
+#EXTINF:-1 tvg-id="Movies4Men UK" tvg-name="Movies4Men +1 UK" tvg-logo="http://pici.life/lg/UK/movies4menplus1.png" group-title="United Kingdom",Movies4Men +1 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15820
+#EXTINF:-1 tvg-id="sonymovies.uk" tvg-name="Sony Movies UK" tvg-logo="" group-title="United Kingdom",Sony Movies UK
+http://iptv.rent:80/oerpy2v2r/086730stia/9528
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="Film 4 UK" tvg-logo="http://pici.life/uk/Film4.uk.png" group-title="United Kingdom",Film 4 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/6607
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film 4 HD UK" tvg-logo="" group-title="United Kingdom",Film 4 HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15746
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="TCM HD UK" tvg-logo="" group-title="United Kingdom",TCM HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/9511
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD English Lang UK" tvg-logo="" group-title="United Kingdom",TCM HD English Lang UK
+http://iptv.rent:80/oerpy2v2r/086730stia/9510
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Box Office 1 FHD UK" tvg-logo="" group-title="United Kingdom",Sky Cinema Box Office 1 FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15878
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Box Office 2 FHD UK" tvg-logo="" group-title="United Kingdom",Sky Cinema Box Office 2 FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15879
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Box Office 4 FHD UK" tvg-logo="" group-title="United Kingdom",Sky Cinema Box Office 4 FHD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15893
+#EXTINF:-1 tvg-id="Sky Movies Action Adventure UK" tvg-name="Sky Movies Action & Adventure HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Action & Adventure HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15720
+#EXTINF:-1 tvg-id="Sky Movies Comedy UK" tvg-name="Sky Movies Comedy HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Comedy HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15719
+#EXTINF:-1 tvg-id="Sky Movies Disney UK" tvg-name="Sky Movies Disney HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Disney HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15717
+#EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-name="Sky Movies Drama & Romance HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Drama & Romance HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15716
+#EXTINF:-1 tvg-id="Sky Movies Family UK" tvg-name="Sky Movies Family HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Family HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15715
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Premiere +1 HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Premiere +1 HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15714
+#EXTINF:-1 tvg-id="Sky Movies Premiere UK" tvg-name="Sky Movies Premiere HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Premiere HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15713
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-name="Sky Movies Sci-Fi & Horror HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Sci-Fi & Horror HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15712
+#EXTINF:-1 tvg-id="SkySelect.uk" tvg-name="Sky Movies Select HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Select HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15711
+#EXTINF:-1 tvg-id="Sky Movies Crime Thriller UK" tvg-name="Sky Movies Thriller HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Thriller HD UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15718
+#EXTINF:-1 tvg-id="sonymoviesplus1.uk" tvg-name="Sony Movies +1 UK" tvg-logo="http://pici.life/lg/UK/sonymoviesplus1.png" group-title="United Kingdom",Sony Movies +1 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15896
+#EXTINF:-1 tvg-id="tcmplus1.uk" tvg-name="TCM +1 UK" tvg-logo="http://pici.life/lg/UK/tcmplus1.png" group-title="United Kingdom",TCM +1 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15882
+#EXTINF:-1 tvg-id="tcm.uk" tvg-name="TCM UK" tvg-logo="http://pici.life/lg/UK/tcm.png" group-title="United Kingdom",TCM UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15883
+#EXTINF:-1 tvg-id="truemovies.uk" tvg-name="True Movies +1 UK" tvg-logo="http://pici.life/lg/UK/truemovies.png" group-title="United Kingdom",True Movies +1 UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15874
+#EXTINF:-1 tvg-id="sonysab.uk" tvg-name="Sony Sab UK" tvg-logo="http://pici.life/lg/UK/sonysab.png" group-title="United Kingdom",Sony Sab UK
+http://iptv.rent:80/oerpy2v2r/086730stia/15895
+
